@@ -1,0 +1,22 @@
+body{
+    font-family: 'Caveat', cursive;
+}
+
+th {
+    background: #D8BFD8;
+    color: #444;
+    font-weight: normal;
+}
+
+th, td{
+    padding: 8px 25px 7px;
+    text-align: center;
+}
+
+td{
+    border-bottom: 1px solid #dddd;
+}
+
+tr:nth-child(odd){
+    background-color: #f3f3f3;
+}
